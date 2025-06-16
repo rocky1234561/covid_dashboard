@@ -1,3 +1,4 @@
+HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -43,3 +44,6 @@ npm run dev
 - Overview of COVID stats
 - Interactive charts
 - Theme switcher
+=======
+# covid_dashboard
+e5ec8b3e457719f34dc5fc9e03ee47155cd4b730
